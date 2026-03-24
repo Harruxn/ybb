@@ -1,0 +1,7 @@
+{
+  "name": "Kinetic HUD: Orbital Cleanup",
+  "description": "An AR game using MediaPipe Hands to catch falling debris and satellites.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
